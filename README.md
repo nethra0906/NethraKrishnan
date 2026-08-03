@@ -1,4 +1,4 @@
-# Recidivism Dataset — Phase 1 Exploratory Data Analysis
+# Recidivism Dataset - Phase 1 Exploratory Data Analysis
 
 Exploratory Data Analysis on the Rossi Recidivism Dataset (1,445 records)
 performed as part of a Data Science project.
